@@ -1,3 +1,4 @@
 git branch  - display all the branches
 touch file1  - to create a new empty file
 git commit  - to commit changes in a file 
+pwd  - shows in which directory we are
